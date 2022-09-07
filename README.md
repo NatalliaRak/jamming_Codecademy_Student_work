@@ -1,6 +1,3 @@
-# jamming_Codecademy_Student_work
-My React Codecademy Student Work, 
-
 # Jamming: the Spotify Track Searcher and Saver
 25 August 2020
 The deployed web app is on [link](http://enjoy_silence.surge.sh/)
