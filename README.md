@@ -38,7 +38,7 @@ The Spotify.js (src/util/Spotify.js) is also imported to the App React Component
 The *.getAccessToken()* method gets a user’s access token for requesting to the Spotify API and authorization on Spotify and redirects the user to the web app page after.
 The *.search()* method with the value term provides the search on Spotify: it uses the Spotify GET request and to the following Spotify endpoint.
 The *.savePlaylist()* method accepts a playlist name and an array of track URIs. It requists the userId, the playlistId and new playlist’sId.
-There is the custom information for the Spotify.js file: the Cliend Id and the Redirect URL. More information on Spotify Development - **[Spotify Applications Registration Flow] (https://developer.spotify.com/dashboard/login)** and **[Spotify Authentication guide] <https://developer.spotify.com/documentation/general/guides/authorization/>**.
+There is the custom information for the Spotify.js file: the Cliend Id and the Redirect URL. More information on Spotify Development - **[Spotify Applications Registration Flow](https://developer.spotify.com/dashboard/login)** and **[Spotify Authentication guide]<https://developer.spotify.com/documentation/general/guides/authorization/>**.
 
 ## CAVEATS
 For using the full feature track information on the web application on mobile screens - the album cover and the track preview - there will be need proper work with *@media* in the Track.css. Also there will be the necessity to create the limitation of the {this.props.track.album} length.
