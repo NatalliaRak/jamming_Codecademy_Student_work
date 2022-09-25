@@ -1,5 +1,5 @@
 # Jamming: the Spotify Track Searcher and Saver
-25 August 2020
+25 August 2022
 The deployed web app is on [link](http://enjoy_silence.surge.sh/)
 
 ## OBJECTIVE
