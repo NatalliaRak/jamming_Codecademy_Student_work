@@ -1,5 +1,5 @@
 
-const clientId = 'a06e9d0d06984218a4577fbb58888814';
+const clientId = 'apiKey';
 const redirectId = 'http://enjoy_silence.surge.sh'; 
 const accessUrl = `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectId}`
 
